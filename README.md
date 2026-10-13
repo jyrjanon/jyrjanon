@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm Jayraj 👋
+# Hey, I'm Jayraj 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Python+%26+Problem+Solving+Enthusiast;Aspiring+B.Tech+CSE+Engineer;Learning+in+public%2C+one+commit+at+a+time" alt="Typing animation" />
 
@@ -8,11 +8,11 @@
 
 <br>
 
-### ◦ about
+### ◦ About
 
 - 🎓 Diploma in Computer Engineering @ Parul University
-- 🐍 Working through [CS50P](https://cs50.harvard.edu/python/) and sharpening my Python
-- 🚀 Preparing for B.Tech CSE via lateral entry (DDCET)
+- 🐍 Working through HackerRank and sharpening my Python
+- 🚀
 - 💬 Open to hackathons, side projects and good conversations
 
 <br>
@@ -49,8 +49,8 @@ exploring  →  hackathons, open source, new tools
 
 ### ◦ connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayrajsinhr_2008)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:jayrajrana450@gmail.com)
 
 <br>
 
