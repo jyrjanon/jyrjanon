@@ -11,8 +11,7 @@
 ### ◦ About
 
 - 🎓 Diploma in Computer Engineering @ Parul University
-- 🐍 Working through HackerRank and sharpening my Python
-- 🚀
+- 🐍 Sharpening my Python
 - 💬 Open to hackathons, side projects and good conversations
 
 <br>
@@ -20,8 +19,8 @@
 ### ◦ currently
 
 ```text
-learning   →  python, problem solving, core cs fundamentals
-building   →  small projects, one commit at a time
+learning   →  python, problem solving, core cs fundamentals, DSA
+building   →  Project
 exploring  →  hackathons, open source, new tools
 ```
 
