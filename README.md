@@ -22,7 +22,7 @@ Show Image Show Image Show Image Show Image
 
 <br>
 ◦ stats
-<div align="center"> <img height="140" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" /> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" /> </div> <br>
+<div align="center"> <img height="140" src="https://github-readme-stats.vercel.app/api?username=anonjyrj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" /> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonjyrj&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" /> </div> <br>
 ◦ connect
 
 LinkedIn Email
