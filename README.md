@@ -1,33 +1,60 @@
 <div align="center">
-hey, i'm JDK 👋
 
-computer engineering student · learning in public · building slowly, steadily
+# hey, i'm Jayraj 👋
 
-</div> <br>
-◦ about
-🎓 Diploma in Computer Engineering @ Parul University
-🐍 Working through CS50P and sharpening my Python
-🚀 Preparing for B.Tech CSE via lateral entry (DDCET)
-💬 Open to hackathons, side projects and good conversations
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Python+%26+Problem+Solving+Enthusiast;Aspiring+B.Tech+CSE+Engineer;Learning+in+public%2C+one+commit+at+a+time" alt="Typing animation" />
+
+</div>
+
 <br>
-◦ currently
-text
+
+### ◦ about
+
+- 🎓 Diploma in Computer Engineering @ Parul University
+- 🐍 Working through [CS50P](https://cs50.harvard.edu/python/) and sharpening my Python
+- 🚀 Preparing for B.Tech CSE via lateral entry (DDCET)
+- 💬 Open to hackathons, side projects and good conversations
+
+<br>
+
+### ◦ currently
+
+```text
 learning   →  python, problem solving, core cs fundamentals
 building   →  small projects, one commit at a time
 exploring  →  hackathons, open source, new tools
-<br>
-◦ stack
-
-Show Image Show Image Show Image Show Image
+```
 
 <br>
-◦ stats
-<div align="center"> <img height="140" src="https://github-readme-stats.vercel.app/api?username=anonjyrj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" /> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonjyrj&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" /> </div> <br>
-◦ connect
 
-LinkedIn Email
+### ◦ stack
 
-<br> <div align="center">
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<br>
+
+### ◦ stats
+
+<div align="center">
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=jyrjanon&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyrjanon&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
+
+</div>
+
+<br>
+
+### ◦ connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<br>
+
+<div align="center">
 
 <sub>✦ small steps, every day ✦</sub>
 
