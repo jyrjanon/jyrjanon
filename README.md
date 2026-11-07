@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hey, I'm Jayraj 👋
+<p align="center">
+  <img src="assets/glitch.svg" alt="Jayrajsinh Rana" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Python+%26+Problem+Solving+Enthusiast;Aspiring+CSE+Engineer" alt="Typing animation" />
 
